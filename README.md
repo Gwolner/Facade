@@ -1,2 +1,5 @@
-# gog-facade
-Cria uma interface simples ocultando toda complexidade de uso de uma classe. Como o encapsulamento é focado em um objeto/classe, o facade olha pro subsistema inteiro, um modulo inteiro que ele pega para abstrair essa complexidade deixando uma interface bem mais simples para ser usada!  
+# Facade 
+
+
+
+Cria uma interface simples ocultando toda complexidade de uso de uma classe complexa ou de um conjunto de subclasses. Apoiando assim no encapsulamento das aplicações, quando se tem módulos de sistemas que precisam se comunicar entre si, este padrão é muito adequado pois permite o isolamento entre os módulos.
